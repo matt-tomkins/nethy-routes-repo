@@ -1,0 +1,32 @@
+---
+title: "The Nethy Routes Repository"
+---
+*A selection of routes for the UMHC Nethy trip, ranging from easy bimbles to big Munro days.*
+
+![*Reaching the summit of Braeriach (Nethy 2013/14)*](./images/braeriach.JPG)
+
+## Overview
+
+Routes are categorised according to whether they can be completed [from the hut](hut.qmd) or require [club transport](transport.qmd).
+
+This is not an exhaustive list of all routes that have been completed on previous Nethys, but a selection of the most popular. 
+
+For each route, there is information on: 
+
+- approximate difficulty (easy / medium / difficult)
+- length
+- ascent 
+- start location
+- the intended route (minimal detail)
+
+## Safety
+
+When deciding on your route, remember to consider:
+
+- the [weather](https://www.mwis.org.uk/forecasts/scottish/cairngorms-np-and-monadhliath) conditions
+- the snow conditions, both in terms of the difficulty of movement and navigation, but also the risk of [avalanche](https://www.sais.gov.uk/northern-cairngorms/)
+- the experience and fitness of your group
+- what equipment might be needed (crampons, ice axes, group shelter, headtorches, first-aid kit *etc*)
+- the daylight hours available. 
+
+![*Challenging navigation on the return from Ben Macdhui (Nethy 2012/13)*](./images/white-out.JPG)

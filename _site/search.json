@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Nethy Routes Repository",
+    "section": "",
+    "text": "A selection of routes for the UMHC Nethy trip, ranging from easy bimbles to big Munro days."
+  },
+  {
+    "objectID": "index.html#structure",
+    "href": "index.html#structure",
+    "title": "The Nethy Routes Repository",
+    "section": "Structure",
+    "text": "Structure\nRoutes are listed\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "index.html#routes-from-the-hut",
+    "href": "index.html#routes-from-the-hut",
+    "title": "The Nethy Routes Repository",
+    "section": "Routes from the hut",
+    "text": "Routes from the hut\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n12"
+  },
+  {
+    "objectID": "index.html#routes-requiring-transport",
+    "href": "index.html#routes-requiring-transport",
+    "title": "The Nethy Routes Repository",
+    "section": "Routes requiring transport",
+    "text": "Routes requiring transport\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^4\n\\]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "hut.html",
+    "href": "hut.html",
+    "title": "From the hut",
+    "section": "",
+    "text": "Routes from the YHA at Glenmore"
+  },
+  {
+    "objectID": "transport.html",
+    "href": "transport.html",
+    "title": "With transport",
+    "section": "",
+    "text": "Routes requiring club transport"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "The Nethy Routes Repository",
+    "section": "Overview",
+    "text": "Overview\nRoutes are categorised according to whether they can be completed from the hut or require club transport.\nThis is not an exhaustive list of all routes that have been completed on previous Nethys, but a selection of the most popular.\nFor each route, there is information on:\n\napproximate difficulty (easy / medium / difficult)\nlength\nascent\nstart location\nthe intended route (minimal detail)"
+  },
+  {
+    "objectID": "hut.html#bynack-more",
+    "href": "hut.html#bynack-more",
+    "title": "From the hut",
+    "section": "Bynack More",
+    "text": "Bynack More\n\n\n\nA snowy Ryvoan Bothy on the approach to Bynack More. Credit: Alex Roddie\n\n\nBynack More is a prominent Munro, the northeastern cornerstone of the Cairngorms. It lacks any grand corries but is a magnificent viewpoint for northeast Scotland.\n\nDifficulty: Medium / Hard\nLength: 22 km\nAscent: 860 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Pass → River Nethy → Bynack More → Return by the outbound route or alternatively via Bynack Beg"
+  },
+  {
+    "objectID": "hut.html#meall-a-bhuachaille",
+    "href": "hut.html#meall-a-bhuachaille",
+    "title": "From the hut",
+    "section": "Meall a’ Bhuachaille",
+    "text": "Meall a’ Bhuachaille\n\n\n\nScrambling on the Fiacaill Ridge, Meall a’ Bhuachaille behind (Nethy 2018/19)\n\n\nA popular Corbett standing directly above the Youth Hostel. Here is a chance to experience the beauty and wildness of the Cairngorms without the length and remoteness of some of the Munro walks\n\nDifficulty: Easy / Medium\nLength: 8.5 km\nAscent: 543 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Pass → west to Meall a’ Bhuachaille summit → west to bealach → descent via Coire Chondlaich"
+  },
+  {
+    "objectID": "transport.html#cairn-gorm-via-fiacaill-ridge",
+    "href": "transport.html#cairn-gorm-via-fiacaill-ridge",
+    "title": "With transport",
+    "section": "Cairn Gorm (via Fiacaill Ridge)",
+    "text": "Cairn Gorm (via Fiacaill Ridge)\n\n\n\nHeading to Cairngorm after the scramble up Fiacaill Ridge (Nethy 2018/19)\n\n\nA short but challenging route up a Grade 1 summer scramble starting at the ski centre car park. If under time pressure, a descent can be made via Point 1141\n\nDifficulty: Medium / Hard\nLength: 9.2 km\nAscent: 744 m\nStart: Ski Centre CP\nDescription: Ski Centre CP → along the Allt Coire an t-Sneachda → Fiacaill Ridge → over Stob Coire an t-Sneachda → contour and summit Cairngorm → descend north to the top ski station → descend to CP via Sron an Aonaich."
+  },
+  {
+    "objectID": "transport.html#ben-macdhui",
+    "href": "transport.html#ben-macdhui",
+    "title": "With transport",
+    "section": "Ben Macdhui",
+    "text": "Ben Macdhui\n\n\n\nCrossing the Cairngorm plateau on the return from Ben Macdhui, white-out conditions never far away (Nethy 2012/13)\n\n\nA journey to Britain’s second highest mountain. A full day out, especially if combined with Cairngorm. Strong navigation skills a requirement\n\nDifficulty: Medium / Hard\nLength: 15.8 km\nAscent: 770 m\nStart: Ski Centre CP\nDescription: Ski Centre CP → trend south-west towards Lurcher’s Crag → climb steeply to west of Cairn Lochan → bear south across the plateau to Ben Macdhui summit (trig point) → return via the outward route, or contour the northern corries and descend via Point 1141 or Cairngorm."
+  },
+  {
+    "objectID": "transport.html#sgòr-gaoith",
+    "href": "transport.html#sgòr-gaoith",
+    "title": "With transport",
+    "section": "Sgòr Gaoith",
+    "text": "Sgòr Gaoith\n\n\n\nHeading into the Lairig Ghru, with a snow-clad Sgòr Gaoith in the background (Nethy 2013/14)\n\n\nOne of the easier Munro’s in the area (alongside Cairn Gorm). Worth it for the views down into Gleann Eaniach, the summit perched above the cliffs\n\nDifficulty: Medium\nLength: 13.8 km\nAscent: 839 m\nStart: Glen Feshie\nDescription: Invereshie and Inshriach National Nature Reserve CP → follow the path south-east as it tracks above the Allt Ruadh → cross the Allt a’ Chrom-alltain → ascend east to Sgòr Gaoith → return via the outward route, or more ambitiously via Meall Buidhe and Geal-charn."
+  },
+  {
+    "objectID": "transport.html#braeriach",
+    "href": "transport.html#braeriach",
+    "title": "With transport",
+    "section": "Braeriach",
+    "text": "Braeriach\n\n\n\nApproaching the summit of Braeriach, Sgòr an Lochain Uaine in the background (Nethy 2013/14)\n\n\nThe third highest mountain in Britain. A remote summit and a long and challenging day, involving much ascent and re-ascent. Beautiful in the right conditions\n\nDifficulty: Hard\nLength: 21 km\nAscent: 1050 m\nStart: Sugar Bowl CP\nDescription: Sugar Bowl CP → Chalamain Gap → Lairig Ghru → Sron na Lairige → Braeriach summit → return via the outward route."
+  },
+  {
+    "objectID": "transport.html#cairn-gorm-northern-corries",
+    "href": "transport.html#cairn-gorm-northern-corries",
+    "title": "With transport",
+    "section": "Cairn Gorm (Northern Corries)",
+    "text": "Cairn Gorm (Northern Corries)\n\n\n\nView across the Cairngorm plateau and the northern corries to Cairn Toul and Braeriach on one of those rare high-pressure days\n\n\nA traverse around the edge of the northern corries (Coire an t-Sneachda, Coire an Lochain), be aware of cornices!\n\nDifficulty: Medium\nLength: 11 km\nAscent: 796 m\nStart: Ski Centre CP\nDescription: Ski Centre CP → trend south-west towards Lurcher’s Crag → climb steeply to Cairn Lochan → ascend Stob Coire an t-Sneachda and follow the above described route."
+  },
+  {
+    "objectID": "transport.html#geal-charn-mòr",
+    "href": "transport.html#geal-charn-mòr",
+    "title": "With transport",
+    "section": "Geal-charn Mòr",
+    "text": "Geal-charn Mòr\n\n\n\nDescending from Geal-charn Mòr on the Burma Road, the high Cairngorms in the background\n\n\nA straightforward Corbett on the edge of Aviemore, climbed most simply via the Burma Road, supposedly constructed by prisoners of war during WWII.\n\nDifficulty: Easy / Medium\nLength: 10 km\nAscent: 570 m\nStart: Lynwilg\nDescription: Lynwilg (free parking at the start of the Burma Road) → Burma Road to bealach → Geal-charn Mòr → return via the outward route or descent via path on west flank of Creag Chleannain."
+  },
+  {
+    "objectID": "transport.html#craigellachie",
+    "href": "transport.html#craigellachie",
+    "title": "With transport",
+    "section": "Craigellachie",
+    "text": "Craigellachie\n\n\n\nSummit cairn of Craigellachie (Nethy 2023/24)\n\n\nA short but steep outing from Aviemore. A good choice in poor weather or if limited time available\n\nDifficulty: Easy\nLength: ~5 km\nAscent: 300 m\nStart: Aviemore\nDescription: Marked route - follow signs!"
+  },
+  {
+    "objectID": "transport.html#mullach-clach-a-bhlàir",
+    "href": "transport.html#mullach-clach-a-bhlàir",
+    "title": "With transport",
+    "section": "Mullach Clach a’ Bhlàir",
+    "text": "Mullach Clach a’ Bhlàir\n\n\n\nClimbing Coire Garbhiach on the ascent to Mullach Clach a’ Bhlàir on a “no-snow” Nethy (Nethy 2015/16)\n\n\nAn uninspiring Munro, but worth doing if no other alternatives are available. Limited topographic interest, but pleasant in Glen Feshie\n\nDifficulty: Medium\nLength: ~21 km\nAscent: 750 m\nStart: Glen Feshie\nDescription: Auchlean → south along Glen Feshie → ascend Coire Caol → south across plateau to non-descript summit → return via the outbound route."
+  },
+  {
+    "objectID": "transport.html#braeriach-to-devils-point",
+    "href": "transport.html#braeriach-to-devils-point",
+    "title": "With transport",
+    "section": "Braeriach to Devil’s Point",
+    "text": "Braeriach to Devil’s Point\n\n\n\nCrossing the Braeriach massif to the Devil’s Point, the deep trough of the Lairig Ghru below (Nethy 2016/17)\n\n\nA massive and memorable outing for Munro baggers, but only feasible with limited snow cover. Four Munros, remote walking, and a long slog back up the Lairig Ghru to finish\n\nDifficulty: Very Hard\nLength: ~21 km\nAscent: 750 m\nStart: Sugar Bowl CP\nDescription: Sugar Bowl CP → Chalamain Gap → Sron na Lairige → Braeriach summit → Sgòr an Lochain Uaine → Cairn Toul → Devil’s Point → Corrour Bothy → Lairig Ghru and the Pools of Dee → Chalamain Gap → Sugar Bowl CP."
+  },
+  {
+    "objectID": "transport.html#a-chailleach",
+    "href": "transport.html#a-chailleach",
+    "title": "With transport",
+    "section": "A’ Chailleach",
+    "text": "A’ Chailleach\n\n\n\nSummit of A’ Chailleach, rising above Newtonmore. Credit: Steve Roddie\n\n\nThe closest and finest Munro in the rarely visted Monadhliath\n\nDifficulty: Easy / Medium\nLength: 10 km\nAscent: 620 m\nStart: Glen Banchor above Newtonmore\nDescription: Glen Banchor → along the Allt a’ Chaorainn → ascent the south flank of A’ Chailleach → return by the outbound route."
+  },
+  {
+    "objectID": "hut.html#loch-morlich",
+    "href": "hut.html#loch-morlich",
+    "title": "From the hut",
+    "section": "Loch Morlich",
+    "text": "Loch Morlich\n\n\n\nPreparing for winter skills in Coire na Ciste on a wintry Nethy, a frozen Loch Morlich in the distance (Nethy 2022/23)\n\n\nAn easy flat walk on forest tracks around Loch Morlich, with the stunning backdrop of the often snow-clad peaks of the northern Cairngorms. Lots of possibilities to modify and extend the route - the shortest variant is ~6 km\n\nDifficulty: Easy\nLength: 6 km\nAscent: 26 m\nStart: Glenmore Lodge\nDescription: Follow the signs!"
+  },
+  {
+    "objectID": "hut.html#loch-an-eilein",
+    "href": "hut.html#loch-an-eilein",
+    "title": "From the hut",
+    "section": "Loch an Eilein",
+    "text": "Loch an Eilein\n\n\n\nThe outflow of Loch Gamnha, feeding into Loch an Eilein (Nethy 2023/24)\n\n\nAn easy undulating walk on forest tracks to reach the beautiful Loch an Eilein. If transport is available, the circuit of the loch is ~7 km (parking charge applies)\n\nDifficulty: Medium\nLength: 23.5 km\nAscent: 235 m\nStart: Glenmore Lodge\nDescription: Many possible variations, one of which is: Glenmore Lodge → south side of Loch Morlich → Cairngorm Club footbridge → Lochan Deo → Loch an Eilein → Rothiemurchus → return via the Old Logging Way"
+  },
+  {
+    "objectID": "hut.html#meall-a-bhuachaille-to-craiggowrie",
+    "href": "hut.html#meall-a-bhuachaille-to-craiggowrie",
+    "title": "From the hut",
+    "section": "Meall a’ Bhuachaille to Craiggowrie",
+    "text": "Meall a’ Bhuachaille to Craiggowrie\n\n\n\nEarly morning climbing to Coire an t-Sneachda, the Meall a’ Bhuachaille ridge behind (Nethy 2018/2019)\n\n\nAs above, but continuing along the undulating ridge to Craiggowrie. Great views to the high Cairngorms and west to the Monadhliath\n\nDifficulty: Medium\nLength: 16.3 km\nAscent: 768 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Pass → west to Meall a’ Bhuachaille summit → west to bealach → Creagan Gorm → Craiggowrie → descent south-west to forest edge → forest tracks to Badaguish Outdoor Centre"
+  },
+  {
+    "objectID": "transport.html#ord-bàn",
+    "href": "transport.html#ord-bàn",
+    "title": "With transport",
+    "section": "Ord Bàn",
+    "text": "Ord Bàn\n\n\n\nSummit of Ord Bàn, adorned with a glacial erratic\n\n\nA short outing up a diminutive summit but superb views of the Cairngorms and the Monadhliath, and an excellent outing when combined with a circuit of Loch an Eilein. The Strava heatmap useful for path finding\n\nDifficulty: Easy\nLength: 7 km\nAscent: 250 m\nStart: Loch an Eilein (parking charge applies)\nDescription: Loch an Eilein CP → clockwise around the lake → take left fork at NH 8882 0740 → follow to deer fence → follow near side of deer fence north east (clear but small path) towards Ord Bàn summit, with one fence crossing → from summit, descent east on minor stalkers path to start"
+  },
+  {
+    "objectID": "index.html#safety",
+    "href": "index.html#safety",
+    "title": "The Nethy Routes Repository",
+    "section": "Safety",
+    "text": "Safety\nWhen deciding on your route, remember to consider:\n\nthe weather conditions\nthe snow conditions, both in terms of the difficulty of movement and navigation, but also the risk of avalanche\nthe experience and fitness of your group\nwhat equipment might be needed (crampons, ice axes, group shelter, headtorches, first-aid kit etc)\nthe daylight hours available.\n\n\n\n\nChallenging navigation on the return from Ben Macdhui (Nethy 2012/13)"
+  },
+  {
+    "objectID": "hut.html#the-chalamain-gap",
+    "href": "hut.html#the-chalamain-gap",
+    "title": "From the hut",
+    "section": "The Chalamain Gap",
+    "text": "The Chalamain Gap\n\n\n\nThrough the Chalamain Gap on the long approach to Braeriach (Nethy 2013/14)\n\n\nA lower level walk to pass through the bouldery defile of the Chalamain Gap. Be cautious in winter conditions: a known avalanche hotspot\n\nDifficulty: Medium\nLength: 17 km\nAscent: 454 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → forest tracks to the Sugar Bowl car park → west to the Chalamain Gap → descent to Lairig Ghru path → north along the banks of the Allt Druidh → Rothiemurchus Lodge → Loch Morlich → Glenmore"
+  }
+]

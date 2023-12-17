@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>nethy-routes-repo - With transport</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">nethy-routes-repo</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./hut.html" rel="" target="">
+ <span class="menu-text">From the hut</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./transport.html" rel="" target="" aria-current="page">
+ <span class="menu-text">With transport</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#cairn-gorm-via-fiacaill-ridge" id="toc-cairn-gorm-via-fiacaill-ridge" class="nav-link active" data-scroll-target="#cairn-gorm-via-fiacaill-ridge">Cairn Gorm (via Fiacaill Ridge)</a></li>
+  <li><a href="#cairn-gorm-northern-corries" id="toc-cairn-gorm-northern-corries" class="nav-link" data-scroll-target="#cairn-gorm-northern-corries">Cairn Gorm (Northern Corries)</a></li>
+  <li><a href="#ben-macdhui" id="toc-ben-macdhui" class="nav-link" data-scroll-target="#ben-macdhui">Ben Macdhui</a></li>
+  <li><a href="#sgòr-gaoith" id="toc-sgòr-gaoith" class="nav-link" data-scroll-target="#sgòr-gaoith">Sgòr Gaoith</a></li>
+  <li><a href="#braeriach" id="toc-braeriach" class="nav-link" data-scroll-target="#braeriach">Braeriach</a></li>
+  <li><a href="#geal-charn-mòr" id="toc-geal-charn-mòr" class="nav-link" data-scroll-target="#geal-charn-mòr">Geal-charn Mòr</a></li>
+  <li><a href="#craigellachie" id="toc-craigellachie" class="nav-link" data-scroll-target="#craigellachie">Craigellachie</a></li>
+  <li><a href="#mullach-clach-a-bhlàir" id="toc-mullach-clach-a-bhlàir" class="nav-link" data-scroll-target="#mullach-clach-a-bhlàir">Mullach Clach a’ Bhlàir</a></li>
+  <li><a href="#braeriach-to-devils-point" id="toc-braeriach-to-devils-point" class="nav-link" data-scroll-target="#braeriach-to-devils-point">Braeriach to Devil’s Point</a></li>
+  <li><a href="#a-chailleach" id="toc-a-chailleach" class="nav-link" data-scroll-target="#a-chailleach">A’ Chailleach</a></li>
+  <li><a href="#ord-bàn" id="toc-ord-bàn" class="nav-link" data-scroll-target="#ord-bàn">Ord Bàn</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">With transport</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p><em>Routes requiring club transport</em></p>
+<section id="cairn-gorm-via-fiacaill-ridge" class="level2">
+<h2 class="anchored" data-anchor-id="cairn-gorm-via-fiacaill-ridge">Cairn Gorm (via Fiacaill Ridge)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/winter-skills.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Heading to Cairngorm after the scramble up Fiacaill Ridge (Nethy 2018/19)</em></figcaption>
+</figure>
+</div>
+<p><em>A short but challenging route up a Grade 1 summer <a href="https://www.ukclimbing.com/logbook/crags/cairn_gorm_-_stob_coire_an_t-sneachda-25/fiacaill_ridge-2369">scramble</a> starting at the ski centre car park. If under time pressure, a descent can be made via Point 1141</em></p>
+<ul>
+<li>Difficulty: Medium / Hard</li>
+<li>Length: 9.2 km</li>
+<li>Ascent: 744 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/c6A5keZbwpaN98H18">Ski Centre CP</a></li>
+<li>Description: Ski Centre CP → along the Allt Coire an t-Sneachda → Fiacaill Ridge → over Stob Coire an t-Sneachda → contour and summit Cairngorm → descend north to the top ski station → descend to CP via Sron an Aonaich.</li>
+</ul>
+</section>
+<section id="cairn-gorm-northern-corries" class="level2">
+<h2 class="anchored" data-anchor-id="cairn-gorm-northern-corries">Cairn Gorm (Northern Corries)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/corries.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>View across the Cairngorm plateau and the northern corries to Cairn Toul and Braeriach on one of those rare high-pressure days</em></figcaption>
+</figure>
+</div>
+<p><em>A traverse around the edge of the <a href="https://www.walkhighlands.co.uk/cairngorms/cairngorm.shtml">northern corries</a> (Coire an t-Sneachda, Coire an Lochain), be aware of cornices!</em></p>
+<ul>
+<li>Difficulty: Medium</li>
+<li>Length: 11 km</li>
+<li>Ascent: 796 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/c6A5keZbwpaN98H18">Ski Centre CP</a></li>
+<li>Description: Ski Centre CP → trend south-west towards Lurcher’s Crag → climb steeply to Cairn Lochan → ascend Stob Coire an t-Sneachda and follow the above described route.</li>
+</ul>
+</section>
+<section id="ben-macdhui" class="level2">
+<h2 class="anchored" data-anchor-id="ben-macdhui">Ben Macdhui</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/plateau.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Crossing the Cairngorm plateau on the return from Ben Macdhui, white-out conditions never far away (Nethy 2012/13)</em></figcaption>
+</figure>
+</div>
+<p><em>A journey to Britain’s <a href="https://www.walkhighlands.co.uk/cairngorms/macdui-cairngorm.shtml">second highest mountain</a>. A full day out, especially if combined with Cairngorm. Strong navigation skills a requirement</em></p>
+<ul>
+<li>Difficulty: Medium / Hard</li>
+<li>Length: 15.8 km</li>
+<li>Ascent: 770 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/c6A5keZbwpaN98H18">Ski Centre CP</a></li>
+<li>Description: Ski Centre CP → trend south-west towards Lurcher’s Crag → climb steeply to west of Cairn Lochan → bear south across the plateau to Ben Macdhui summit (trig point) → return via the outward route, or contour the northern corries and descend via Point 1141 or Cairngorm.</li>
+</ul>
+</section>
+<section id="sgòr-gaoith" class="level2">
+<h2 class="anchored" data-anchor-id="sgòr-gaoith">Sgòr Gaoith</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/gaoith.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Heading into the Lairig Ghru, with a snow-clad Sgòr Gaoith in the background (Nethy 2013/14)</em></figcaption>
+</figure>
+</div>
+<p><em>One of the easier Munro’s in the area (alongside Cairn Gorm). Worth it for the views down into Gleann Eaniach, the <a href="https://www.walkhighlands.co.uk/cairngorms/sgor-gaoith.shtml">summit</a> perched above the cliffs</em></p>
+<ul>
+<li>Difficulty: Medium</li>
+<li>Length: 13.8 km</li>
+<li>Ascent: 839 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/B9KLiU1zhskgFttc8">Glen Feshie</a></li>
+<li>Description: Invereshie and Inshriach National Nature Reserve CP → follow the path south-east as it tracks above the Allt Ruadh → cross the Allt a’ Chrom-alltain → ascend east to Sgòr Gaoith → return via the outward route, or more ambitiously via Meall Buidhe and Geal-charn.</li>
+</ul>
+</section>
+<section id="braeriach" class="level2">
+<h2 class="anchored" data-anchor-id="braeriach">Braeriach</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/angels-peak.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Approaching the summit of Braeriach, Sgòr an Lochain Uaine in the background (Nethy 2013/14)</em></figcaption>
+</figure>
+</div>
+<p><em>The <a href="https://www.walkhighlands.co.uk/munros/braeriach">third highest</a> mountain in Britain. A remote summit and a long and challenging day, involving much ascent and re-ascent. Beautiful in the right conditions</em></p>
+<ul>
+<li>Difficulty: Hard</li>
+<li>Length: 21 km</li>
+<li>Ascent: 1050 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/5zewnAsFajNFReT67">Sugar Bowl CP</a></li>
+<li>Description: Sugar Bowl CP → Chalamain Gap → Lairig Ghru → Sron na Lairige → Braeriach summit → return via the outward route.</li>
+</ul>
+</section>
+<section id="geal-charn-mòr" class="level2">
+<h2 class="anchored" data-anchor-id="geal-charn-mòr">Geal-charn Mòr</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/burma.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Descending from Geal-charn Mòr on the Burma Road, the high Cairngorms in the background</em></figcaption>
+</figure>
+</div>
+<p><em>A straightforward <a href="https://www.walkhighlands.co.uk/cairngorms/geal-charn-mor.shtml">Corbett</a> on the edge of Aviemore, climbed most simply via the <a href="">Burma Road</a>, supposedly constructed by prisoners of war during WWII.</em></p>
+<ul>
+<li>Difficulty: Easy / Medium</li>
+<li>Length: 10 km</li>
+<li>Ascent: 570 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/dSCsB4BUrMLTR7a89">Lynwilg</a></li>
+<li>Description: Lynwilg (free parking at the start of the Burma Road) → Burma Road to bealach → Geal-charn Mòr → return via the outward route or descent via path on west flank of Creag Chleannain.</li>
+</ul>
+</section>
+<section id="craigellachie" class="level2">
+<h2 class="anchored" data-anchor-id="craigellachie">Craigellachie</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/craig.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Summit cairn of Craigellachie (Nethy 2023/24)</em></figcaption>
+</figure>
+</div>
+<p><em>A short but steep outing from Aviemore. A good choice in poor weather or if limited time available</em></p>
+<ul>
+<li>Difficulty: Easy</li>
+<li>Length: ~5 km</li>
+<li>Ascent: 300 m</li>
+<li>Start: Aviemore</li>
+<li>Description: Marked route - follow signs!</li>
+</ul>
+</section>
+<section id="mullach-clach-a-bhlàir" class="level2">
+<h2 class="anchored" data-anchor-id="mullach-clach-a-bhlàir">Mullach Clach a’ Bhlàir</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/mullach.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Climbing Coire Garbhiach on the ascent to Mullach Clach a’ Bhlàir on a “no-snow” Nethy (Nethy 2015/16)</em></figcaption>
+</figure>
+</div>
+<p><em>An uninspiring Munro, but worth doing if no other alternatives are available. Limited topographic interest, but pleasant in Glen Feshie</em></p>
+<ul>
+<li>Difficulty: Medium</li>
+<li>Length: ~21 km</li>
+<li>Ascent: 750 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/98puEWisyDCZozDv7">Glen Feshie</a></li>
+<li>Description: Auchlean → south along Glen Feshie → ascend Coire Caol → south across plateau to non-descript summit → return via the outbound route.</li>
+</ul>
+</section>
+<section id="braeriach-to-devils-point" class="level2">
+<h2 class="anchored" data-anchor-id="braeriach-to-devils-point">Braeriach to Devil’s Point</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/mhaim.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Crossing the Braeriach massif to the Devil’s Point, the deep trough of the Lairig Ghru below (Nethy 2016/17)</em></figcaption>
+</figure>
+</div>
+<p><em>A massive and memorable outing for Munro baggers, but only feasible with limited snow cover. Four Munros, remote walking, and a long slog back up the Lairig Ghru to finish</em></p>
+<ul>
+<li>Difficulty: Very Hard</li>
+<li>Length: ~21 km</li>
+<li>Ascent: 750 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/5zewnAsFajNFReT67">Sugar Bowl CP</a></li>
+<li>Description: Sugar Bowl CP → Chalamain Gap → Sron na Lairige → Braeriach summit → Sgòr an Lochain Uaine → Cairn Toul → Devil’s Point → Corrour Bothy → Lairig Ghru and the Pools of Dee → Chalamain Gap → Sugar Bowl CP.</li>
+</ul>
+</section>
+<section id="a-chailleach" class="level2">
+<h2 class="anchored" data-anchor-id="a-chailleach">A’ Chailleach</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/chailleach.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Summit of A’ Chailleach, rising above Newtonmore. Credit: <a href="https://www.stevenfallon.co.uk/monadh-liath-a-chailleach.html">Steve Roddie</a></em></figcaption>
+</figure>
+</div>
+<p><em>The closest and finest Munro in the rarely visted <a href="https://www.walkhighlands.co.uk/munros/a-chailleach-monadhliath">Monadhliath</a></em></p>
+<ul>
+<li>Difficulty: Easy / Medium</li>
+<li>Length: 10 km</li>
+<li>Ascent: 620 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/ybTy66ffeQkMXTdq5">Glen Banchor above Newtonmore</a></li>
+<li>Description: Glen Banchor → along the Allt a’ Chaorainn → ascent the south flank of A’ Chailleach → return by the outbound route.</li>
+</ul>
+</section>
+<section id="ord-bàn" class="level2">
+<h2 class="anchored" data-anchor-id="ord-bàn">Ord Bàn</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/ord.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Summit of Ord Bàn, adorned with a glacial erratic</em></figcaption>
+</figure>
+</div>
+<p><em>A short outing up a diminutive summit but superb views of the Cairngorms and the Monadhliath, and an excellent outing when combined with a circuit of Loch an Eilein. The <a href="https://www.strava.com/heatmap#14.18/-3.82960/57.14597/hot/all">Strava heatmap</a> useful for path finding</em></p>
+<ul>
+<li>Difficulty: Easy</li>
+<li>Length: 7 km</li>
+<li>Ascent: 250 m</li>
+<li>Start: <a href="https://maps.app.goo.gl/yvia1iV1oRmaz6wQ9">Loch an Eilein</a> (parking charge applies)</li>
+<li>Description: Loch an Eilein CP → clockwise around the lake → take left fork at NH 8882 0740 → follow to deer fence → follow near side of deer fence north east (clear but small path) towards Ord Bàn summit, with one fence crossing → from summit, descent east on minor stalkers path to start</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
