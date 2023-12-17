@@ -99,8 +99,8 @@ title: "With transport"
 *A massive and memorable outing for Munro baggers, but only feasible with limited snow cover. Four Munros, remote walking, and a long slog back up the Lairig Ghru to finish*
 
 - Difficulty: Very Hard
-- Length: ~21 km
-- Ascent: 750 m
+- Length: 37 km
+- Ascent: 2100 m
 - Start: [Sugar Bowl CP](https://maps.app.goo.gl/5zewnAsFajNFReT67)
 - Description: Sugar Bowl CP &#8594; Chalamain Gap &#8594; Sron na Lairige &#8594; Braeriach summit &#8594; Sgòr an Lochain Uaine &#8594; Cairn Toul &#8594; Devil's Point &#8594; Corrour Bothy &#8594; Lairig Ghru and the Pools of Dee &#8594; Chalamain Gap &#8594; Sugar Bowl CP.
 
