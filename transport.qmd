@@ -74,6 +74,7 @@ m
 - Ascent: 744 m
 - Start: [Ski Centre CP](https://maps.app.goo.gl/c6A5keZbwpaN98H18)
 - Description: Ski Centre CP &#8594; along the Allt Coire an t-Sneachda &#8594; Fiacaill Ridge &#8594; over Stob Coire an t-Sneachda &#8594; contour and summit Cairngorm &#8594; descend north to the top ski station &#8594; descend to CP via Sron an Aonaich. 
+- GPX: [Download](./files/transport/Fiacaill%20Ridge.gpx){target="_blank"}
 
 ## Cairn Gorm (Northern Corries) 
 ![*View across the Cairngorm plateau and the northern corries to Cairn Toul and Braeriach on one of those rare high-pressure days*](./images/corries.jpg)
@@ -84,7 +85,8 @@ m
 - Length: 11 km
 - Ascent: 796 m
 - Start: [Ski Centre CP](https://maps.app.goo.gl/c6A5keZbwpaN98H18)
-- Description: Ski Centre CP &#8594; trend south-west towards Lurcher's Crag &#8594; climb steeply to Cairn Lochan &#8594; ascend Stob Coire an t-Sneachda and follow the above described route. 
+- Description: Ski Centre CP &#8594; trend south-west towards Lurcher's Crag &#8594; climb steeply to Cairn Lochan &#8594; ascend Stob Coire an t-Sneachda and follow the above described route.
+- GPX: [Download](./files/transport/Cairngorm%20via%20the%20Northern%20Corries.gpx){target="_blank"}
 
 ## Ben Macdhui
 ![*Crossing the Cairngorm plateau on the return from Ben Macdhui, white-out conditions never far away (Nethy 2012/13)*](./images/plateau.jpg)
@@ -96,6 +98,7 @@ m
 - Ascent: 770 m
 - Start: [Ski Centre CP](https://maps.app.goo.gl/c6A5keZbwpaN98H18)
 - Description: Ski Centre CP &#8594; trend south-west towards Lurcher's Crag &#8594; climb steeply to west of Cairn Lochan &#8594; bear south across the plateau to Ben Macdhui summit (trig point) &#8594; return via the outward route, or contour the northern corries and descend via Point 1141 or Cairngorm.
+- GPX: [Download linear](./files/transport/Macdhui.gpx){target="_blank"} or [via Cairngorm](./files/transport/Macdhui%20and%20Cairngorm.gpx){target="_blank"}
 
 ## Sgòr Gaoith
 ![*Heading into the Lairig Ghru, with a snow-clad Sgòr Gaoith in the background (Nethy 2013/14)*](./images/gaoith.jpg)
@@ -107,6 +110,7 @@ m
 - Ascent: 839 m
 - Start: [Glen Feshie](https://maps.app.goo.gl/B9KLiU1zhskgFttc8)
 - Description: Invereshie and Inshriach National Nature Reserve CP &#8594; follow the path south-east as it tracks above the Allt Ruadh &#8594; cross the Allt a' Chrom-alltain &#8594; ascend east to Sgòr Gaoith &#8594; return via the outward route, or more ambitiously via Meall Buidhe and Geal-charn.
+- GPX: [Download linear](./files/transport/Sgorr%20Gaoith.gpx){target="_blank"} or [via Geal-charn](./files/transport/Sgorr%20Gaoith%20and%20Geal-charn.gpx){target="_blank"}
 
 ## Braeriach
 ![*Approaching the summit of Braeriach, Sgòr an Lochain Uaine in the background (Nethy 2013/14)*](./images/angels-peak.jpg)
@@ -118,6 +122,7 @@ m
 - Ascent: 1050 m
 - Start: [Sugar Bowl CP](https://maps.app.goo.gl/5zewnAsFajNFReT67)
 - Description: Sugar Bowl CP &#8594; Chalamain Gap &#8594; Lairig Ghru &#8594; Sron na Lairige &#8594; Braeriach summit &#8594; return via the outward route.
+- GPX: [Download](./files/transport/Braeriach.gpx){target="_blank"}
 
 ## Geal-charn Mòr
 ![*Descending from Geal-charn Mòr on the Burma Road, the high Cairngorms in the background*](./images/burma.JPG)
@@ -129,6 +134,7 @@ m
 - Ascent: 570 m
 - Start: [Lynwilg](https://maps.app.goo.gl/dSCsB4BUrMLTR7a89)
 - Description: Lynwilg (free parking at the start of the Burma Road) &#8594; Burma Road to bealach &#8594; Geal-charn Mòr &#8594; return via the outward route or descent via path on west flank of Creag Chleannain.
+- GPX: [Download](./files/transport/Geal-charn%20Mor.gpx){target="_blank"}
 
 ## Craigellachie
 ![*Summit cairn of Craigellachie (Nethy 2023/24)*](./images/craig.JPG)
@@ -139,7 +145,8 @@ m
 - Length: ~5 km
 - Ascent: 300 m
 - Start: Aviemore
-- Description: Marked route - follow signs!
+- Description: Marked route - follow signs! Alternatively, a circular route is possible on an umarked trail (GPX below)
+- GPX: [Download](./files/transport/Craigellachie%20circular.gpx){target="_blank"}
 
 
 ## Mullach Clach a' Bhlàir
@@ -151,7 +158,8 @@ m
 - Length: ~21 km
 - Ascent: 750 m
 - Start: [Glen Feshie](https://maps.app.goo.gl/98puEWisyDCZozDv7)
-- Description: Auchlean &#8594; south along Glen Feshie &#8594; ascend Coire Caol &#8594; south across plateau to non-descript summit &#8594; return via the outbound route.
+- Description: Auchlean &#8594; south along Glen Feshie &#8594; ascend Coire Caol &#8594; south across plateau to non-descript summit &#8594; return via the outbound route. Alternatively, the route can be enlivened by making the ascent via Lochan nam Bo, and returning via the above described route.
+- GPX: [Download linear](./files/transport/Mullach%20Clach%20a%E2%80%99%20Bhl%C3%A0ir%20(linear).gpx){target="_blank"} or [via Lochan nam Bo](./files/transport/Mullach%20Clach%20a%E2%80%99%20Bhl%C3%A0ir%20(Lochan%20nam%20Bo).gpx){target="_blank"}
 
 ## Braeriach to Devil's Point
 ![*Crossing the Braeriach massif to the Devil's Point, the deep trough of the Lairig Ghru below (Nethy 2016/17)*](./images/mhaim.JPG)
@@ -163,6 +171,7 @@ m
 - Ascent: 2100 m
 - Start: [Sugar Bowl CP](https://maps.app.goo.gl/5zewnAsFajNFReT67)
 - Description: Sugar Bowl CP &#8594; Chalamain Gap &#8594; Sron na Lairige &#8594; Braeriach summit &#8594; Sgòr an Lochain Uaine &#8594; Cairn Toul &#8594; Devil's Point &#8594; Corrour Bothy &#8594; Lairig Ghru and the Pools of Dee &#8594; Chalamain Gap &#8594; Sugar Bowl CP.
+- GPX: [Download](./files/transport/Braeriach%20to%20Devils%20Point.gpx){target="_blank"}
 
 ## A' Chailleach
 ![*Summit of A' Chailleach, rising above Newtonmore. Credit: [Steve Roddie](https://www.stevenfallon.co.uk/monadh-liath-a-chailleach.html)*](./images/chailleach.jpg) 
@@ -174,6 +183,7 @@ m
 - Ascent: 620 m
 - Start: [Glen Banchor above Newtonmore](https://maps.app.goo.gl/ybTy66ffeQkMXTdq5)
 - Description: Glen Banchor &#8594; along the Allt a' Chaorainn &#8594; ascent the south flank of A' Chailleach &#8594; return by the outbound route.
+- GPX: [Download](./files/transport/A%E2%80%99%20Chailleach.gpx){target="_blank"}
 
 ## Monadhliath Munros
 ![*Carn Dearg, rising above Gleann Ballach. Credit: [Steven Fallon](https://www.stevenfallon.co.uk/monadh-liath-carn-dearg.html)*](./images/carn-dearg.jpg) 
@@ -185,6 +195,7 @@ m
 - Ascent: 1035 m
 - Start: [Glen Banchor above Newtonmore](https://maps.app.goo.gl/ybTy66ffeQkMXTdq5)
 - Description: Glen Banchor &#8594; along the Allt a' Chaorainn &#8594; ascent the south flank of A' Chailleach &#8594; Carn Sgulain &#8594; very long plateau tramp south-west to Carn Dearg &#8594; north from the summit, then descent north-east into Gleann Ballach &#8594; finish on track following the Allt Fionndrigh.
+- GPX: [Download](./files/transport/Monadliath%20Munros.gpx){target="_blank"}
 
 ## Ord Bàn
 ![*Summit of Ord Bàn, adorned with a glacial erratic*](./images/ord.JPG)
@@ -196,6 +207,7 @@ m
 - Ascent: 250 m
 - Start: [Loch an Eilein](https://maps.app.goo.gl/yvia1iV1oRmaz6wQ9) (parking charge applies)
 - Description: Loch an Eilein CP &#8594; clockwise around the lake &#8594; take left fork at NH 8882 0740 &#8594; follow to deer fence &#8594; follow near side of deer fence north east (clear but small path) towards Ord Bàn summit, with one fence crossing &#8594; from summit, descent east on minor stalkers path to start
+- GPX: [Download](./files/transport/Ord%20Ban.gpx){target="_blank"}
 
 ## To Nethy Bridge
 ![*A walk down memory lane (for the Old Gits)*](./images/nethy-house.jpg) 
@@ -207,3 +219,4 @@ m
 - Ascent: 145 m
 - Start: Glenmore Lodge
 - Description: Glenmore Lodge &#8594; Ryvoan Bothy &#8594; Rynettin &#8594; Nethy Bridge &#8594; return via club transport or walk (+15 km)
+- GPX: [Download](./files/transport/Nethy%20Bridge.gpx){target="_blank"}

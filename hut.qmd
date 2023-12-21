@@ -74,6 +74,7 @@ m
 - Ascent: 543 m
 - Start: Glenmore Lodge
 - Description: Glenmore Lodge &#8594; Ryvoan Pass &#8594; west to Meall a' Bhuachaille summit &#8594; west to bealach &#8594; descent via Coire Chondlaich
+- GPX: [Download](./files/hut/Meall%20a'%20Bhuachaille.gpx){target="_blank"}
 
 ## Meall a' Bhuachaille to Craiggowrie
 ![*Early morning climbing to Coire an t-Sneachda, the Meall a' Bhuachaille ridge behind (Nethy 2018/2019)*](./images/creagan.jpg)
@@ -85,7 +86,7 @@ m
 - Ascent: 768 m
 - Start: Glenmore Lodge
 - Description: Glenmore Lodge &#8594; Ryvoan Pass &#8594; west to Meall a' Bhuachaille summit &#8594; west to bealach &#8594; Creagan Gorm &#8594; Craiggowrie &#8594; descent south-west to forest edge &#8594; forest tracks to Badaguish Outdoor Centre
-- GPX: [Download](./files/Meall%20a'%20Bhuachaille%20to%20Craiggowrie.gpx){target="_blank"}
+- GPX: [Download](./files/hut/Meall%20a'%20Bhuachaille%20to%20Craiggowrie.gpx){target="_blank"}
 
 ## Bynack More
 ![*A snowy Ryvoan Bothy on the approach to Bynack More. Credit: [Alex Roddie](https://www.alexroddie.com/2015/02/snowshoes-on-bynack-more/)*](./images/ryvoan.jpg) 
@@ -97,6 +98,7 @@ m
 - Ascent: 860 m
 - Start: Glenmore Lodge
 - Description: Glenmore Lodge &#8594; Ryvoan Pass &#8594; River Nethy &#8594; Bynack More &#8594; Return by the outbound route or alternatively via Bynack Beg
+- GPX: [Download linear route](./files/hut/Bynack%20More.gpx){target="_blank"} or [via Bynack Beg](./files/hut/Bynack%20More%20and%20Bynack%20Beag.gpx){target="_blank"} 
 
 
 ## The Chalamain Gap
@@ -109,6 +111,7 @@ m
 - Ascent: 454 m
 - Start: Glenmore Lodge
 - Description: Glenmore Lodge &#8594; forest tracks to the Sugar Bowl car park &#8594; west to the Chalamain Gap &#8594; descent to Lairig Ghru path &#8594; north along the banks of the Allt Druidh &#8594; Rothiemurchus Lodge &#8594; Loch Morlich &#8594; Glenmore
+- GPX: [Download](./files/hut/Chalamain%20Gap.gpx){target="_blank"}
 
 ## Loch Morlich
 ![*Preparing for winter skills in Coire na Ciste on a wintry Nethy, a frozen Loch Morlich in the distance (Nethy 2022/23)*](./images/morlich.jpg)
@@ -119,7 +122,8 @@ m
 - Length: 6 km
 - Ascent: 26 m
 - Start: Glenmore Lodge
-- Description: Follow the signs! 
+- Description: Follow the signs!
+- GPX: [Download](./files/hut/Loch%20Morlich.gpx){target="_blank"}
 
 ## Loch an Eilein
 ![*The outflow of Loch Gamnha, feeding into Loch an Eilein (Nethy 2023/24)*](./images/eileen.jpg) 
@@ -131,4 +135,5 @@ m
 - Ascent: 235 m
 - Start: Glenmore Lodge
 - Description: Many possible variations, one of which is: Glenmore Lodge &#8594; south side of Loch Morlich &#8594; Cairngorm Club footbridge &#8594; Lochan Deo &#8594; Loch an Eilein &#8594; Rothiemurchus &#8594; return via the Old Logging Way
+- GPX: [Download](./files/hut/Loch%20an%20Eilein.gpx){target="_blank"}
 
