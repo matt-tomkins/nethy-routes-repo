@@ -4,6 +4,66 @@ title: "From the hut"
 
 *Routes from the YHA at Glenmore*
 
+Select the route of interest in the **layers panel** to display them on the map. 
+
+```{python}
+#| echo: false
+
+# Source: https://www.riannek.de/2022/gpx-to-geopandas/
+import folium
+import os
+from geopandas import read_file, GeoDataFrame
+from pandas import concat
+
+# Path to GPX directory (no transport)
+folder = "files/hut/"
+
+# Create empty GeoDataFrame
+track = GeoDataFrame(columns=['name', 'geometry'], 
+     geometry='geometry')
+
+# Iterate through directory and load gpx 
+for file in os.listdir(folder):
+    if file.endswith(('.gpx')):
+
+        # EAFP open file and append to gdf
+        try:
+            gdf = read_file(folder + file, layer='tracks')
+            track = concat([track, gdf[['name','geometry']]], ignore_index=True)
+        except:
+            print("Error for", file)
+
+# Init interactive map
+m = folium.Map(location = [57.160220794956295, -3.693734655411699], zoom_start = 12)
+
+# Iterate through routes
+for i, route in track.iterrows():
+
+    # EAFP
+    try:
+
+        # Add LineString (inelegant)
+        folium.Choropleth(
+            route['geometry'], # Route geometry
+            line_weight=3,
+            line_color='#E15454',
+            line_opacity=0.4,
+            name=route['name'], # Legend name
+            popup = route['name'],
+            show = False
+        ).add_to(m)
+
+    except ValueError:
+        print("ValueError: Likely missing geometries")
+
+# Layer control
+m.add_child(folium.map.LayerControl(collapsed= False))
+ 
+# Display
+m
+
+```
+
 ## Meall a' Bhuachaille
 ![*Scrambling on the Fiacaill Ridge, Meall a' Bhuachaille behind (Nethy 2018/19)*](./images/buachaille.jpg)
 
@@ -25,6 +85,7 @@ title: "From the hut"
 - Ascent: 768 m
 - Start: Glenmore Lodge
 - Description: Glenmore Lodge &#8594; Ryvoan Pass &#8594; west to Meall a' Bhuachaille summit &#8594; west to bealach &#8594; Creagan Gorm &#8594; Craiggowrie &#8594; descent south-west to forest edge &#8594; forest tracks to Badaguish Outdoor Centre
+- GPX: [Download](./files/Meall%20a'%20Bhuachaille%20to%20Craiggowrie.gpx){target="_blank"}
 
 ## Bynack More
 ![*A snowy Ryvoan Bothy on the approach to Bynack More. Credit: [Alex Roddie](https://www.alexroddie.com/2015/02/snowshoes-on-bynack-more/)*](./images/ryvoan.jpg) 
@@ -70,5 +131,4 @@ title: "From the hut"
 - Ascent: 235 m
 - Start: Glenmore Lodge
 - Description: Many possible variations, one of which is: Glenmore Lodge &#8594; south side of Loch Morlich &#8594; Cairngorm Club footbridge &#8594; Lochan Deo &#8594; Loch an Eilein &#8594; Rothiemurchus &#8594; return via the Old Logging Way
-
 

@@ -1,5 +1,7 @@
 ---
 title: "The Nethy Routes Repository"
+execute:
+  echo: false
 ---
 *A selection of routes for the UMHC Nethy trip, ranging from easy bimbles to big Munro days.*
 
@@ -18,6 +20,8 @@ For each route, there is information on:
 - ascent 
 - start location
 - the intended route (minimal detail)
+
+A GPX download for each route is also provided. 
 
 ## Safety
 

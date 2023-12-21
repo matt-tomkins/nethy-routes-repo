@@ -11,7 +11,7 @@
     "href": "index.html#overview",
     "title": "The Nethy Routes Repository",
     "section": "Overview",
-    "text": "Overview\nRoutes are categorised according to whether they can be completed from the hut or require club transport.\nThis is not an exhaustive list of all routes that have been completed on previous Nethys, but a selection of the most popular.\nFor each route, there is information on:\n\napproximate difficulty (easy / medium / difficult)\nlength\nascent\nstart location\nthe intended route (minimal detail)"
+    "text": "Overview\nRoutes are categorised according to whether they can be completed from the hut or require club transport.\nThis is not an exhaustive list of all routes that have been completed on previous Nethys, but a selection of the most popular.\nFor each route, there is information on:\n\napproximate difficulty (easy / medium / difficult)\nlength\nascent\nstart location\nthe intended route (minimal detail)\n\nA GPX download for each route is also provided."
   },
   {
     "objectID": "index.html#safety",
@@ -25,7 +25,7 @@
     "href": "transport.html",
     "title": "With transport",
     "section": "",
-    "text": "Routes requiring club transport"
+    "text": "Routes requiring club transport\nSelect the route of interest in the layers panel to display them on the map.\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   },
   {
     "objectID": "transport.html#cairn-gorm-via-fiacaill-ridge",
@@ -109,7 +109,7 @@
     "href": "hut.html",
     "title": "From the hut",
     "section": "",
-    "text": "Routes from the YHA at Glenmore"
+    "text": "Routes from the YHA at Glenmore\nSelect the route of interest in the layers panel to display them on the map.\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   },
   {
     "objectID": "hut.html#meall-a-bhuachaille",
@@ -123,7 +123,7 @@
     "href": "hut.html#meall-a-bhuachaille-to-craiggowrie",
     "title": "From the hut",
     "section": "Meall a’ Bhuachaille to Craiggowrie",
-    "text": "Meall a’ Bhuachaille to Craiggowrie\n\n\n\nEarly morning climbing to Coire an t-Sneachda, the Meall a’ Bhuachaille ridge behind (Nethy 2018/2019)\n\n\nAs above, but continuing along the undulating ridge to Craiggowrie. Great views to the high Cairngorms and west to the Monadhliath\n\nDifficulty: Medium\nLength: 16.3 km\nAscent: 768 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Pass → west to Meall a’ Bhuachaille summit → west to bealach → Creagan Gorm → Craiggowrie → descent south-west to forest edge → forest tracks to Badaguish Outdoor Centre"
+    "text": "Meall a’ Bhuachaille to Craiggowrie\n\n\n\nEarly morning climbing to Coire an t-Sneachda, the Meall a’ Bhuachaille ridge behind (Nethy 2018/2019)\n\n\nAs above, but continuing along the undulating ridge to Craiggowrie. Great views to the high Cairngorms and west to the Monadhliath\n\nDifficulty: Medium\nLength: 16.3 km\nAscent: 768 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Pass → west to Meall a’ Bhuachaille summit → west to bealach → Creagan Gorm → Craiggowrie → descent south-west to forest edge → forest tracks to Badaguish Outdoor Centre\nGPX: Download"
   },
   {
     "objectID": "hut.html#bynack-more",
@@ -152,5 +152,19 @@
     "title": "From the hut",
     "section": "Loch an Eilein",
     "text": "Loch an Eilein\n\n\n\nThe outflow of Loch Gamnha, feeding into Loch an Eilein (Nethy 2023/24)\n\n\nAn easy undulating walk on forest tracks to reach the beautiful Loch an Eilein. If transport is available, the circuit of the loch is ~7 km (parking charge applies)\n\nDifficulty: Medium\nLength: 23.5 km\nAscent: 235 m\nStart: Glenmore Lodge\nDescription: Many possible variations, one of which is: Glenmore Lodge → south side of Loch Morlich → Cairngorm Club footbridge → Lochan Deo → Loch an Eilein → Rothiemurchus → return via the Old Logging Way"
+  },
+  {
+    "objectID": "transport.html#monadhliath-munros",
+    "href": "transport.html#monadhliath-munros",
+    "title": "With transport",
+    "section": "Monadhliath Munros",
+    "text": "Monadhliath Munros\n\n\n\nCarn Dearg, rising above Gleann Ballach. Credit: Steven Fallon\n\n\nTikcking off three of the Monadhliath Munros, A’ Chailleach, Carn Sgulain and Carn Dearg. A long, rough and remote outing\n\nDifficulty: Hard\nLength: 24.5 km\nAscent: 1035 m\nStart: Glen Banchor above Newtonmore\nDescription: Glen Banchor → along the Allt a’ Chaorainn → ascent the south flank of A’ Chailleach → Carn Sgulain → very long plateau tramp south-west to Carn Dearg → north from the summit, then descent north-east into Gleann Ballach → finish on track following the Allt Fionndrigh."
+  },
+  {
+    "objectID": "transport.html#to-nethy-bridge",
+    "href": "transport.html#to-nethy-bridge",
+    "title": "With transport",
+    "section": "To Nethy Bridge",
+    "text": "To Nethy Bridge\n\n\n\nA walk down memory lane (for the Old Gits)\n\n\nAn easy walk on forest tracks to reach the original Nethy House, now a café. Transport needs to be organised for the return, or vica-versa if starting at Nethy Bridge\n\nDifficulty: Easy\nLength: 15.5 km\nAscent: 145 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Bothy → Rynettin → Nethy Bridge → return via club transport or walk (+15 km)"
   }
 ]

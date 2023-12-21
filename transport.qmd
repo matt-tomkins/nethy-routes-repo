@@ -4,6 +4,66 @@ title: "With transport"
 
 *Routes requiring club transport*
 
+Select the route of interest in the **layers panel** to display them on the map. 
+
+```{python}
+#| echo: false
+
+# Source: https://www.riannek.de/2022/gpx-to-geopandas/
+import folium
+import os
+from geopandas import read_file, GeoDataFrame
+from pandas import concat
+
+# Path to GPX directory (no transport)
+folder = "files/transport/"
+
+# Create empty GeoDataFrame
+track = GeoDataFrame(columns=['name', 'geometry'], 
+     geometry='geometry')
+
+# Iterate through directory and load gpx 
+for file in os.listdir(folder):
+    if file.endswith(('.gpx')):
+
+        # EAFP open file and append to gdf
+        try:
+            gdf = read_file(folder + file, layer='tracks')
+            track = concat([track, gdf[['name','geometry']]], ignore_index=True)
+        except:
+            print("Error for", file)
+
+# Init interactive map
+m = folium.Map(location = [57.091826507125106, -3.6177967980736003], zoom_start = 11)
+
+# Iterate through routes
+for i, route in track.iterrows():
+
+    # EAFP
+    try:
+
+        # Add LineString (inelegant)
+        folium.Choropleth(
+            route['geometry'], # Route geometry
+            line_weight=3,
+            line_color='#E15454',
+            line_opacity=0.4,
+            name=route['name'], # Legend name
+            popup = route['name'],
+            show = False
+        ).add_to(m)
+
+    except ValueError:
+        print("ValueError: Likely missing geometries")
+
+# Layer control
+m.add_child(folium.map.LayerControl(collapsed= False))
+ 
+# Display
+m
+
+```
+
 ## Cairn Gorm (via Fiacaill Ridge) 
 ![*Heading to Cairngorm after the scramble up Fiacaill Ridge (Nethy 2018/19)*](./images/winter-skills.jpg)
 
@@ -115,6 +175,17 @@ title: "With transport"
 - Start: [Glen Banchor above Newtonmore](https://maps.app.goo.gl/ybTy66ffeQkMXTdq5)
 - Description: Glen Banchor &#8594; along the Allt a' Chaorainn &#8594; ascent the south flank of A' Chailleach &#8594; return by the outbound route.
 
+## Monadhliath Munros
+![*Carn Dearg, rising above Gleann Ballach. Credit: [Steven Fallon](https://www.stevenfallon.co.uk/monadh-liath-carn-dearg.html)*](./images/carn-dearg.jpg) 
+
+*Tikcking off three of the [Monadhliath](https://www.walkhighlands.co.uk/munros/a-chailleach-monadhliath) Munros, A' Chailleach, Carn Sgulain and Carn Dearg. A long, rough and remote outing*
+
+- Difficulty: Hard
+- Length: 24.5 km
+- Ascent: 1035 m
+- Start: [Glen Banchor above Newtonmore](https://maps.app.goo.gl/ybTy66ffeQkMXTdq5)
+- Description: Glen Banchor &#8594; along the Allt a' Chaorainn &#8594; ascent the south flank of A' Chailleach &#8594; Carn Sgulain &#8594; very long plateau tramp south-west to Carn Dearg &#8594; north from the summit, then descent north-east into Gleann Ballach &#8594; finish on track following the Allt Fionndrigh.
+
 ## Ord Bàn
 ![*Summit of Ord Bàn, adorned with a glacial erratic*](./images/ord.JPG)
 
@@ -125,3 +196,14 @@ title: "With transport"
 - Ascent: 250 m
 - Start: [Loch an Eilein](https://maps.app.goo.gl/yvia1iV1oRmaz6wQ9) (parking charge applies)
 - Description: Loch an Eilein CP &#8594; clockwise around the lake &#8594; take left fork at NH 8882 0740 &#8594; follow to deer fence &#8594; follow near side of deer fence north east (clear but small path) towards Ord Bàn summit, with one fence crossing &#8594; from summit, descent east on minor stalkers path to start
+
+## To Nethy Bridge
+![*A walk down memory lane (for the Old Gits)*](./images/nethy-house.jpg) 
+
+*An easy walk on forest tracks to reach the original **Nethy House**, now a [café](https://www.nethyhouse.co.uk/). Transport needs to be organised for the return, or vica-versa if starting at Nethy Bridge*
+
+- Difficulty: Easy
+- Length: 15.5 km
+- Ascent: 145 m
+- Start: Glenmore Lodge
+- Description: Glenmore Lodge &#8594; Ryvoan Bothy &#8594; Rynettin &#8594; Nethy Bridge &#8594; return via club transport or walk (+15 km)
