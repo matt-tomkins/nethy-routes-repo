@@ -15,13 +15,13 @@ This is not an exhaustive list of all routes that have been completed on previou
 
 For each route, there is information on: 
 
-- approximate difficulty (easy / medium / difficult)
+- approximate difficulty (easy / medium / hard)
 - length
 - ascent 
 - start location
 - the intended route (minimal detail)
 
-A GPX download for each route is also provided. 
+A GPX download for each route is also provided. These are listed in full [here](gpx.qmd).
 
 ## Safety
 

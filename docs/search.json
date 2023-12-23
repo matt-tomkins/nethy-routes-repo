@@ -11,7 +11,7 @@
     "href": "index.html#overview",
     "title": "The Nethy Routes Repository",
     "section": "Overview",
-    "text": "Overview\nRoutes are categorised according to whether they can be completed from the hut or require club transport.\nThis is not an exhaustive list of all routes that have been completed on previous Nethys, but a selection of the most popular.\nFor each route, there is information on:\n\napproximate difficulty (easy / medium / difficult)\nlength\nascent\nstart location\nthe intended route (minimal detail)\n\nA GPX download for each route is also provided."
+    "text": "Overview\nRoutes are categorised according to whether they can be completed from the hut or require club transport.\nThis is not an exhaustive list of all routes that have been completed on previous Nethys, but a selection of the most popular.\nFor each route, there is information on:\n\napproximate difficulty (easy / medium / hard)\nlength\nascent\nstart location\nthe intended route (minimal detail)\n\nA GPX download for each route is also provided. These are listed in full here."
   },
   {
     "objectID": "index.html#safety",
@@ -166,5 +166,26 @@
     "title": "With transport",
     "section": "To Nethy Bridge",
     "text": "To Nethy Bridge\n\n\n\nA walk down memory lane (for the Old Gits)\n\n\nAn easy walk on forest tracks to reach the original Nethy House, now a café. Transport needs to be organised for the return, or vica-versa if starting at Nethy Bridge\n\nDifficulty: Easy\nLength: 15.5 km\nAscent: 145 m\nStart: Glenmore Lodge\nDescription: Glenmore Lodge → Ryvoan Bothy → Rynettin → Nethy Bridge → return via club transport or walk (+15 km)\nGPX: Download"
+  },
+  {
+    "objectID": "gpx.html",
+    "href": "gpx.html",
+    "title": "GPX files",
+    "section": "",
+    "text": "GPX files for each route available to download, sorted alphabetically"
+  },
+  {
+    "objectID": "gpx.html#from-the-hut",
+    "href": "gpx.html#from-the-hut",
+    "title": "GPX files",
+    "section": "From the hut",
+    "text": "From the hut\nBynack More linear\nBynack More via Bynack Beg\nChalamain Gap\nLoch Morlich\nLoch an Eilein\nMeall a’ Bhuachaille\nMeall a’ Bhuachaille to Craiggowrie"
+  },
+  {
+    "objectID": "gpx.html#with-transport",
+    "href": "gpx.html#with-transport",
+    "title": "GPX files",
+    "section": "With transport",
+    "text": "With transport\nA’ Chailleach\nBen Macdhui linear\nBen Macdhui via Cairngorm\nBraeriach\nBraeriach to Devil’s Point\nCairn Gorm via Fiacaill Ridge\nCairn Gorm via Northern Corries\nCraigellachie\nGeal-charn Mòr\nMonadhliath Munros\nMullach Clach a’ Bhlàir linear\nMullach Clach a’ Bhlàir via Lochan nam Bo\nNethy Bridge\nOrd Bàn\nSgòr Gaoith linear\nSgòr Gaoith via Geal-charn"
   }
 ]

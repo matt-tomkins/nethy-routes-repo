@@ -1,0 +1,73 @@
+---
+title: "GPX files"
+---
+*GPX files for each route available to download, sorted alphabetically*
+
+![*Heading for Winter Skills in Coire an t'Sneachda (Nethy 2023/24)*](./images/sneachda.jpg)
+
+## From the hut
+
+[Bynack More *linear*](./files/hut/Bynack%20More.gpx){target="_blank"}
+
+[Bynack More *via Bynack Beg*](./files/hut/Bynack%20More%20and%20Bynack%20Beag.gpx){target="_blank"} 
+
+[Chalamain Gap](./files/hut/Chalamain%20Gap.gpx){target="_blank"}
+
+[Loch Morlich](./files/hut/Loch%20Morlich.gpx){target="_blank"}
+
+[Loch an Eilein](./files/hut/Loch%20an%20Eilein.gpx){target="_blank"}
+
+[Meall a' Bhuachaille](./files/hut/Meall%20a'%20Bhuachaille.gpx){target="_blank"}
+
+[Meall a' Bhuachaille to Craiggowrie](./files/hut/Meall%20a'%20Bhuachaille%20to%20Craiggowrie.gpx){target="_blank"}
+
+## With transport
+
+[A' Chailleach](./files/transport/A%E2%80%99%20Chailleach.gpx){target="_blank"}
+
+[Ben Macdhui *linear*](./files/transport/Macdhui.gpx){target="_blank"} 
+
+[Ben Macdhui *via Cairngorm*](./files/transport/Macdhui%20and%20Cairngorm.gpx){target="_blank"}
+
+[Braeriach](./files/transport/Braeriach.gpx){target="_blank"}
+
+[Braeriach to Devil's Point](./files/transport/Braeriach%20to%20Devils%20Point.gpx){target="_blank"}
+
+[Cairn Gorm *via Fiacaill Ridge*](./files/transport/Fiacaill%20Ridge.gpx){target="_blank"}
+
+[Cairn Gorm *via Northern Corries*](./files/transport/Cairngorm%20via%20the%20Northern%20Corries.gpx){target="_blank"}
+
+[Craigellachie](./files/transport/Craigellachie%20circular.gpx){target="_blank"}
+
+[Geal-charn Mòr](./files/transport/Geal-charn%20Mor.gpx){target="_blank"}
+
+[Monadhliath Munros](./files/transport/Monadliath%20Munros.gpx){target="_blank"}
+
+[Mullach Clach a' Bhlàir *linear*](./files/transport/Mullach%20Clach%20a%E2%80%99%20Bhl%C3%A0ir%20(linear).gpx){target="_blank"}
+
+[Mullach Clach a' Bhlàir *via Lochan nam Bo*](./files/transport/Mullach%20Clach%20a%E2%80%99%20Bhl%C3%A0ir%20(Lochan%20nam%20Bo).gpx){target="_blank"}
+
+[Nethy Bridge](./files/transport/Nethy%20Bridge.gpx){target="_blank"}
+
+[Ord Bàn](./files/transport/Ord%20Ban.gpx){target="_blank"}
+
+[Sgòr Gaoith *linear*](./files/transport/Sgorr%20Gaoith.gpx){target="_blank"} 
+
+[Sgòr Gaoith *via Geal-charn*](./files/transport/Sgorr%20Gaoith%20and%20Geal-charn.gpx){target="_blank"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
