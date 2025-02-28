@@ -34,3 +34,26 @@ When deciding on your route, remember to consider:
 - the daylight hours available. 
 
 ![*Challenging navigation on the return from Ben Macdhui (Nethy 2012/13)*](./images/white-out.JPG)
+
+## Plotting trial
+
+Testing plotly functionality. Irrelevant to this repo!
+
+```{python}
+
+import plotly.express as px
+import plotly.io as pio
+
+# Create a simple Plotly figure
+df = px.data.iris()
+fig = px.scatter(df, x='sepal_width', y='sepal_length', color='species')
+
+# Save the figure as an HTML file
+fig.write_html("./images/figure.html")
+
+# Optionally, display the plot inline
+#fig.show()
+
+```
+
+<iframe src="./images/figure.html" width="100%" height="600px"></iframe>
